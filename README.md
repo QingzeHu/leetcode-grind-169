@@ -13,7 +13,7 @@ This repository is my personal 20-week challenge to complete the [Grind 169](htt
 ## Progress Tracker
 
 ### [Week 1](Week01/)    (31 Dec 2024 - 5 Jan 2025)
-- [ ] Problem 1: Two Sum (Easy, 15 mins)
+- [x] Problem 1: Two Sum (Easy, 15 mins)
 - [ ] Problem 2: Valid Parentheses (Easy, 20 mins)
 - [ ] Problem 3: Merge Two Sorted Lists (Easy, 20 mins)
 - [ ] Problem 4: Best Time to Buy and Sell Stock (Easy, 20 mins)
