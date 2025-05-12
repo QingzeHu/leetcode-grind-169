@@ -29,8 +29,8 @@ This repository is my personal 20-week challenge to complete the [Grind 169](htt
 
 ### Week 2(Week02/) (12 May 2025 - 18 May 2025)
 - [x] Problem 1: First Bad Version (Easy, 20 mins)
-- [ ] Problem 2: Ransom Note (Easy, 15 mins)
-- [ ] Problem 3: Climbing Stairs (Easy, 20 mins)
+- [x] Problem 2: Ransom Note (Easy, 15 mins)
+- [x] Problem 3: Climbing Stairs (Easy, 20 mins)
 - [ ] Problem 4: Longest Palindrome (Easy, 20 mins)
 - [ ] Problem 5: Reverse Linked List (Easy, 20 mins)
 - [ ] Problem 6: Majority Element (Easy, 20 mins)
